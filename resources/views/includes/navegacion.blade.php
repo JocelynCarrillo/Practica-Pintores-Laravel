@@ -1,0 +1,6 @@
+<main>
+
+@yield('navegacion')
+
+
+</main>
